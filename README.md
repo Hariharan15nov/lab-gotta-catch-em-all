@@ -80,8 +80,8 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 ```
 pokemonName = Bulbasaur
 pokemonNumber = 001
-characteristics = "Bulbasaur is a Grass/Poison-type Pokémon introduced in Generation I. 
-It evolves into Ivysaur starting at level 16. It is one of the three Starter Pokémon in the Kanto region."
+characteristics = "Bulbasaur is a Grass/Poison-type PokÃ©mon introduced in Generation I. 
+It evolves into Ivysaur starting at level 16. It is one of the three Starter PokÃ©mon in the Kanto region."
 type = "POISON"
 evolution = "IVYSAUR"
 baseExp = "64" 
@@ -135,7 +135,7 @@ baseExp = "240"
 pokemonName = Dragonite
 pokemonNumber = 149
 characteristics = "Dragonite is capable of flying faster than the speed of sound. 
-It is a kindhearted Pokémon with human-like intelligence. It shows signs of altruism."
+It is a kindhearted PokÃ©mon with human-like intelligence. It shows signs of altruism."
 type = "DRAGON"
 evolution = "DRATINI"
 baseExp = "270" 
@@ -161,7 +161,7 @@ baseExp = "270"
 ``` 
 pokemonName = Mew
 pokemonNumber = 151
-characteristics = "Mew is a Psychic-type Mythical Pokémon introduced in Generation I. 
+characteristics = "Mew is a Psychic-type Mythical PokÃ©mon introduced in Generation I. 
 Mew is notable for its unique ability to learn every Technical Machine, Technical Record & Hidden Machine."
 type = "PSYCHIC"
 evolution = "NONE"
@@ -188,8 +188,8 @@ baseExp = "64"
 ``` 
 pokemonName = Pikachu
 pokemonNumber = 25
-characteristics = Pikachu is an Electric-type Pokémon, which was introduced in Generation I. 
-Over the years, Pikachu has become so popular that it serves as the Pokémon franchise mascot."
+characteristics = Pikachu is an Electric-type PokÃ©mon, which was introduced in Generation I. 
+Over the years, Pikachu has become so popular that it serves as the PokÃ©mon franchise mascot."
 type = "ELECTRIC"
 evolution = "RAICHU"
 baseExp = "112" 
@@ -206,4 +206,4 @@ baseExp = "112"
 
 
 
-Happy Coding ProGrad ❤️
+Happy Coding ProGrad â�¤ï¸�
